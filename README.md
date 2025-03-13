@@ -28,3 +28,10 @@
 <p>
   <img src="src/chat.PNG">
 </p>
+
+<h2>Используемые технологии</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
